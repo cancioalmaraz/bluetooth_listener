@@ -37,4 +37,10 @@ Execute command
 sudo rfcomm watch hci0
 ```
 
+4.- Execute python script
+
+```
+python bluetooth_listener.py
+```
+
 4.- Connect your bluetooth app program and enjoy :)
